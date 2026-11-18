@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <g opacity="0.12">
+    <!-- Main stem 1 -->
+    <path d="M-10 250 C 40 210, 80 150, 130 90 C 160 50, 190 20, 220 10" stroke="#00A6D6" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Fronds along stem 1 -->
+    <path d="M40 200 C 30 180, 10 170, 0 175" stroke="#00A6D6" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M50 190 C 65 170, 85 165, 95 170" stroke="#00A6D6" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M60 175 C 45 155, 25 150, 12 155" stroke="#00A6D6" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M72 162 C 92 145, 115 142, 128 150" stroke="#00A6D6" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M85 146 C 68 128, 45 125, 30 132" stroke="#00A6D6" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M98 132 C 120 116, 145 115, 160 125" stroke="#00A6D6" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M112 116 C 96 98, 72 98, 55 106" stroke="#00A6D6" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M126 102 C 148 88, 172 89, 188 100" stroke="#00A6D6" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M142 86 C 128 70, 106 72, 90 80" stroke="#00A6D6" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M158 72 C 178 60, 200 62, 214 74" stroke="#00A6D6" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M176 56 C 164 42, 145 45, 132 54" stroke="#00A6D6" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M194 40 C 210 32, 228 35, 238 46" stroke="#00A6D6" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M210 24 C 200 15, 185 18, 175 26" stroke="#00A6D6" stroke-width="1.8" stroke-linecap="round"/>
+
+    <!-- Stem 2 -->
+    <path d="M20 260 C 60 210, 120 170, 190 140 C 220 125, 245 118, 260 115" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+    <path d="M70 205 C 80 185, 85 165, 80 150" stroke="#22c55e" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M95 185 C 115 170, 130 160, 135 145" stroke="#22c55e" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M125 168 C 145 155, 165 148, 175 135" stroke="#22c55e" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M160 152 C 180 142, 202 138, 215 126" stroke="#22c55e" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+</svg>
